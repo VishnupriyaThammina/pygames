@@ -4,7 +4,8 @@
 **Here's an attempt at re-creating the popular game TETRIS**
 
 Team name : **UWU**
-*Isha , Sudhasree and myself Vishnupriya we have created this mini simple game*
+
+Team members : *Isha , Sudhasree and myself Vishnupriya we have created this mini simple game*
 
 you just need to download the **tetris.py** file and run it in vs code
 you are ready to go
